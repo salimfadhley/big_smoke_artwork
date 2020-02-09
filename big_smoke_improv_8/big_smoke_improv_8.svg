@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2048"
+   width="1024"
    height="1024"
-   viewBox="0 0 541.86665 270.93334"
+   viewBox="0 0 270.93333 270.93334"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -29,21 +29,22 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69482422"
-     inkscape:cx="1026.1588"
-     inkscape:cy="489.61423"
+     inkscape:zoom="0.80078125"
+     inkscape:cx="512"
+     inkscape:cy="512"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer13"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
      showguides="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -52,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,55 +65,90 @@
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\desert_sky_hdr-wallpaper-1920x1080.jpg"
        xlink:href="desert_sky_hdr-wallpaper-1920x1080.jpg"
-       y="-80.22245"
-       x="-13.169263"
-       id="image30"
-       style="image-rendering:optimizeQuality"
+       width="435.74011"
+       height="203.3454"
        preserveAspectRatio="none"
-       height="262.77533"
-       width="563.08997" />
+       style="image-rendering:optimizeQuality"
+       id="image30"
+       x="-54.696384"
+       y="16.397322" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer13"
-     inkscape:label="tender's bubble">
+     inkscape:label="tender's bubble"
+     style="display:inline">
     <rect
        ry="14.277472"
        rx="11.423484"
-       y="48.290646"
-       x="151.0365"
+       y="59.274464"
+       x="-3.9701519"
        height="30.870518"
        width="79.257462"
        id="rect473"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70905173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text477"
-       y="62.382256"
-       x="189.64238"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.70996857px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.41040796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       y="71.108612"
+       x="36.325073"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.62639618px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35923404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        xml:space="preserve"><tspan
          id="tspan475"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.70996857px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.41040796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         y="62.382256"
-         x="189.64238"
-         sodipodi:role="line">A bit of</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.62639618px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35923404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="71.108612"
+         x="36.325073"
+         sodipodi:role="line">A Little Bit</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.77426338px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48566905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-       x="188.0696"
-       y="72.522026"
+       x="40.681194"
+       y="85.059097"
        id="text481"
        transform="scale(0.99505497,1.0049696)"><tspan
          sodipodi:role="line"
-         x="188.0696"
-         y="72.522026"
+         x="40.681194"
+         y="85.059097"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.77426338px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48566905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="tspan479">Tender</tspan></text>
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5299263px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.38142535;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       x="9.1573238"
+       y="79.999763"
+       id="text130"
+       transform="scale(0.97569885,1.0249064)"><tspan
+         sodipodi:role="line"
+         x="9.1573238"
+         y="79.999763"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5299263px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.38142535;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="tspan128">of</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot132"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion134"><rect
+           id="rect136"
+           width="122.12127"
+           height="64.113663"
+           x="-323.62137"
+           y="259.7244" /></flowRegion><flowPara
+         id="flowPara138"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="tender">
+     inkscape:label="tender"
+     style="display:inline">
+    <image
+       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\laura_evelyn.png"
+       xlink:href="laura_evelyn.png"
+       y="93.398911"
+       x="-40.834335"
+       id="image252"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="121.29784"
+       width="146.02846" />
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\sadie_clark.png"
        xlink:href="sadie_clark.png"
@@ -120,71 +156,100 @@
        height="187.40303"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       id="image274"
-       x="41.186752"
-       y="35.728924" />
-    <image
-       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\laura_evelyn.png"
-       xlink:href="laura_evelyn.png"
-       width="146.02846"
-       height="121.29784"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image252"
-       x="1.5809158"
-       y="39.151642" />
+       id="image126"
+       x="7.6866961"
+       y="94.185738" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
-     inkscape:label="jay's bubble">
+     inkscape:label="jay's bubble"
+     style="display:inline">
     <rect
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62581336;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect453"
        width="61.741035"
        height="30.870518"
-       x="361.36304"
-       y="2.0966926"
+       x="163.09288"
+       y="50.878223"
        rx="15.189095"
        ry="14.277472" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.71280479px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48415959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-       x="380.78949"
-       y="16.153067"
+       x="184.87598"
+       y="65.521393"
        id="text457"
        transform="scale(1.012029,0.98811397)"><tspan
          sodipodi:role="line"
-         x="380.78949"
-         y="16.153067"
+         x="184.87598"
+         y="65.521393"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.71280479px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48415959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="tspan455">Jay</tspan></text>
     <text
        id="text461"
-       y="26.386696"
-       x="390.7338"
+       y="75.168228"
+       x="192.46364"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46425819px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40437311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        xml:space="preserve"><tspan
          id="tspan459"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46425819px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40437311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         y="26.386696"
-         x="390.7338"
+         y="75.168228"
+         x="192.46364"
          sodipodi:role="line">Bennett</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="ff bubble"
+     style="display:inline">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70905173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect439"
+       width="79.257462"
+       height="30.870518"
+       x="70.874519"
+       y="72.039162"
+       rx="11.423484"
+       ry="14.277472" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.42603779px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35431308;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       x="111.46087"
+       y="88.241142"
+       id="text443"><tspan
+         sodipodi:role="line"
+         x="111.46087"
+         y="88.241142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.42603779px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35431308;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="tspan441">Foreseeable</tspan></text>
+    <text
+       id="text447"
+       y="96.709938"
+       x="107.48031"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46425819px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40437311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       xml:space="preserve"><tspan
+         id="tspan445"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46425819px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40437311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="96.709938"
+         x="107.48031"
+         sodipodi:role="line">Future</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="jay">
+     inkscape:label="jay"
+     style="display:inline">
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\jay_bennett.png"
        xlink:href="jay_bennett.png"
-       width="160.88826"
-       height="186.10857"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
+       y="64.598473"
+       x="133.44225"
        id="image286"
-       x="404.01172"
-       y="0.95431554" />
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="186.10857"
+       width="160.88826" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -193,90 +258,96 @@
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\mountains.png"
        xlink:href="mountains.png"
-       y="79.161163"
-       x="-7.7198901"
-       id="image19"
-       style="image-rendering:optimizeQuality"
+       width="360.04398"
+       height="123.69609"
        preserveAspectRatio="none"
-       height="192.90796"
-       width="561.49994" />
+       style="image-rendering:optimizeQuality"
+       id="image19"
+       x="-40.801521"
+       y="150.68008" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="town">
-    <image
-       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\giddy_up_junction.png"
-       xlink:href="giddy_up_junction.png"
-       width="323.48608"
-       height="142.98085"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image218"
-       x="230.29396"
-       y="79.161163" />
+     inkscape:label="town"
+     style="display:inline">
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\western_street.png"
        xlink:href="western_street.png"
-       width="180.17796"
-       height="135.13347"
+       y="159.40775"
+       x="-11.197847"
+       id="image229"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="86.223747"
+       width="114.965" />
+    <image
+       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\western_street.png"
+       xlink:href="western_street.png"
+       transform="scale(-1,1)"
+       width="114.965"
+       height="86.223747"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       id="image229"
-       x="29.098841"
-       y="105.8839" />
+       id="image140"
+       x="-294.33051"
+       y="164.48329" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="cheese">
+     inkscape:label="cheese"
+     style="display:inline">
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\venues\cheshire_cheese\cheshire_cheese_no_pavement.png"
-       y="20.077494"
-       x="177.88406"
+       y="104.95434"
+       x="75.094666"
        id="image195"
        xlink:href="file:///C:/Users/salim/workspace/big_smoke_artwork/venues/cheshire_cheese/cheshire_cheese_no_pavement.png"
        style="opacity:0.997;image-rendering:optimizeQuality"
        preserveAspectRatio="none"
-       height="259.37521"
-       width="194.74777"
+       height="167.29597"
+       width="125.61153"
        transform="rotate(-1.2051132)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="longhorn_skull">
+     inkscape:label="longhorn_skull"
+     style="display:inline">
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\longhorn_skull.png"
        xlink:href="longhorn_skull.png"
-       transform="rotate(-1.3639643)"
-       width="75.947365"
-       height="51.691536"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
+       y="162.55803"
+       x="111.29789"
        id="image309"
-       x="234.51884"
-       y="95.864471" />
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="38.313251"
+       width="56.291428"
+       transform="rotate(-1.3639643)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="cactus">
+     inkscape:label="cactus"
+     style="display:inline">
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\potted_cactus_0.png"
        xlink:href="potted_cactus_0.png"
-       width="86.43055"
-       height="276.57776"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
+       y="133.59877"
+       x="-12.132424"
        id="image180"
-       x="-16.329607"
-       y="-12.373394" />
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="139.12865"
+       width="43.477703" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="roundel">
+     inkscape:label="roundel"
+     style="display:inline">
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96163279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        id="rect7758-8"
@@ -294,12 +365,12 @@
        xml:space="preserve"><tspan
          id="tspan7679-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.809412px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.41285029;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         y="1.2395692"
+         y="1.2395697"
          x="85.945641"
          sodipodi:role="line" /><tspan
          id="tspan7681-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.809412px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.41285029;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         y="22.251333"
+         y="22.251335"
          x="85.945641"
          sodipodi:role="line">BIG SMOKE IMPROV #8</tspan></text>
     <text
@@ -326,7 +397,7 @@
        id="text8501"><tspan
          sodipodi:role="line"
          x="8.1571379"
-         y="28.820711"
+         y="28.820713"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.40418053px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.23096806;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="tspan8497" /><tspan
          sodipodi:role="line"
@@ -357,123 +428,159 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="ff bubble">
-    <rect
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70905173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect439"
-       width="79.257462"
-       height="30.870518"
-       x="241.12152"
-       y="236.07892"
-       rx="11.423484"
-       ry="14.277472" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.42603779px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35431308;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-       x="281.70792"
-       y="251.74237"
-       id="text443"><tspan
-         sodipodi:role="line"
-         x="281.70792"
-         y="251.74237"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.42603779px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35431308;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="tspan441">Foreseeable</tspan></text>
-    <text
-       id="text447"
-       y="260.74969"
-       x="277.72736"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46425819px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40437311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-       xml:space="preserve"><tspan
-         id="tspan445"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46425819px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40437311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         y="260.74969"
-         x="277.72736"
-         sodipodi:role="line">Future</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="ff"
-     style="opacity:0.997">
+     style="display:inline;opacity:0.997">
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\teams\foreseeable_future\foreseeable_team.png"
-       y="12.019414"
-       x="314.08328"
+       y="130.85957"
+       x="215.16855"
        id="image165"
        xlink:href="file:///C:/Users/salim/workspace/big_smoke_artwork/teams/foreseeable_future/foreseeable_team.png"
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
-       height="185.16541"
-       width="173.51582"
+       height="105.36517"
+       width="98.736168"
        transform="matrix(0.97781389,0.20947551,-0.17957428,0.98374442,0,0)" />
+    <image
+       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_5\haley.png"
+       y="194.39476"
+       x="64.675339"
+       id="image150"
+       xlink:href="file:///C:/Users/salim/workspace/big_smoke_artwork/big_smoke_improv_5/haley.png"
+       style="display:inline;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="80.681137"
+       width="50.667759" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer11"
-     inkscape:label="bubbles">
+     inkscape:label="bubbles"
+     style="display:inline">
     <rect
        ry="14.277472"
        rx="15.189095"
-       y="229.98621"
-       x="115.84107"
+       y="47.022213"
+       x="74.697235"
        height="30.870518"
        width="61.741035"
        id="rect4836"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62581336;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text4485"
-       y="245.64969"
-       x="145.76527"
+       y="59.993092"
+       x="105.15996"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.42603779px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35431308;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        xml:space="preserve"><tspan
          id="tspan4483"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.42603779px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35431308;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         y="245.64969"
-         x="145.76527"
-         sodipodi:role="line">Cowboy</tspan></text>
+         y="59.993092"
+         x="105.15996"
+         sodipodi:role="line">We are</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46425819px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40437311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-       x="141.78471"
-       y="254.65701"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.19184971px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37312192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       x="105.69202"
+       y="68.722481"
        id="text4489"><tspan
          sodipodi:role="line"
-         x="141.78471"
-         y="254.65701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46425819px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40437311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="tspan4487">Club</tspan></text>
+         x="105.69202"
+         y="68.722481"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.19184971px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37312192;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="tspan4487">Cowboys</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="cows">
+     inkscape:label="cows"
+     style="display:inline">
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\cows.png"
        xlink:href="cows.png"
-       transform="scale(-1,1)"
-       width="159.11742"
-       height="110.0562"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
+       y="208.81247"
+       x="-12.132424"
        id="image520"
-       x="-554.83838"
-       y="162.54208" />
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="63.914951"
+       width="92.407173" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer16"
-     inkscape:label="ten_gallon_hat">
+     inkscape:label="ten_gallon_hat"
+     style="display:inline">
     <image
        sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\ten_gallon_hat.png"
        xlink:href="ten_gallon_hat.png"
-       transform="rotate(6.2990769)"
-       width="33.837154"
+       y="-27.563435"
+       x="236.91924"
+       id="image532"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
        height="29.11272"
+       width="33.837154"
+       transform="rotate(19.50075)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="horse"
+     style="display:inline">
+    <image
+       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\horse.png"
+       xlink:href="horse.png"
+       transform="scale(-1,1)"
+       width="78.594475"
+       height="70.367432"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       id="image532"
-       x="477.71295"
-       y="100.36771" />
+       id="image96"
+       x="-164.10025"
+       y="203.59146" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="barrel"
+     style="display:inline">
+    <image
+       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\barrel.png"
+       xlink:href="barrel.png"
+       width="20.053032"
+       height="29.831772"
+       preserveAspectRatio="none"
+       style="opacity:0.997;image-rendering:optimizeQuality"
+       id="image107"
+       x="98.82946"
+       y="241.84367" />
+    <image
+       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\barrel.png"
+       xlink:href="barrel.png"
+       y="245.24413"
+       x="115.3431"
+       id="image112"
+       style="opacity:0.997;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="29.831772"
+       width="20.053032" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="dynamte"
+     style="display:inline">
+    <image
+       sodipodi:absref="C:\Users\salim\workspace\big_smoke_artwork\big_smoke_improv_8\dynamite.png"
+       xlink:href="dynamite.png"
+       transform="rotate(-6.2830735)"
+       width="17.433523"
+       height="30.264593"
+       preserveAspectRatio="none"
+       style="display:inline;image-rendering:optimizeQuality"
+       id="image122"
+       x="133.13231"
+       y="260.00797" />
   </g>
 </svg>
